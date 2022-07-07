@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @bitPablo
 - 👀 I’m interested in DevOps
+- 👨‍💻 I'm proficient with Python, JavaScript, & BASH
